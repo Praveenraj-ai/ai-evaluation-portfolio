@@ -1,5 +1,5 @@
 
-Praveen Raj
+# Praveen Raj
 
 AI Evaluator | LLM Response Quality | Data Quality
 
@@ -15,7 +15,7 @@ I am interested in contributing to AI training and evaluation projects that impr
 
 ---
 
-##Skills & Focus Areas
+## Skills & Focus Areas
 
 - AI-generated response evaluation
 - Response comparison and preference ranking
@@ -25,7 +25,7 @@ I am interested in contributing to AI training and evaluation projects that impr
 - Evidence-based review and written feedback
 - Attention to detail and consistency
 
-##Featured Projects
+## Featured Projects
 
 1. AI Response Quality Evaluation
 
@@ -62,20 +62,20 @@ Focus: Checking AI-generated claims against supplied reference information.
 
 ---
 
-##Professional Background
+## Professional Background
 
 Amazon | Corporate Experience
 
 Experience in a structured corporate environment, with exposure to quality-focused operations, process adherence, and performance expectations.
 
-##Education
+## Education
 
 - Master of Computer Applications (MCA)
 - Bachelor of Computer Applications (BCA)
 
 ---
 
-##Current Learning
+## Current Learning
 
 - Large Language Model (LLM) evaluation
 - Natural Language Processing (NLP)
@@ -85,15 +85,15 @@ Experience in a structured corporate environment, with exposure to quality-focus
 
 ---
 
-##About These Projects
+## About These Projects
 
 These are self-directed practice projects created to demonstrate my evaluation approach and developing skills. The datasets and scenarios are fictional or exercise-based. They are not paid client engagements, production AI projects, or official Amazon datasets.
 
 ---
 
-##Contact
+## Contact
 
-Praveen Raj
+# Praveen Raj
 📧 mail2praveenrj1235@gmail.com
 🌐 "Portfolio Website" (https://praveenraj-ai-portfolio.netlify.app)
 💻 "GitHub Profile" (https://github.com/Praveenraj-ai)
